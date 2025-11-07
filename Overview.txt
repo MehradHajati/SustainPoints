@@ -12,11 +12,16 @@ According to both the cateogory of spending and the amount spent, the user will 
 
 
 The user can then spend their points to:
-
+1. Tax Redemption
+2. Reduce price of EV vehicle
+3. Reduce price of solar panels
+4. Reduce price of insulation
+5. reduce price of second hand goods
+6. reduce price of public transporation passes
 
 
 There are 4 cateogries of spending that a user can earn points from:
 1. Purchasing Refurbished item such as second hand electronics or clothes
 2. Paying for public transportation such as metro, bus, or tram
-3. Purchasing items that promote renewable energy uses such as solar panels
+3. Purchasing items that promote renewable energy and energy conservation uses such as solar panels or good house insulation
 4. Depending on how much money they have been able to save on utilities (water and power)
