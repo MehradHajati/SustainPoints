@@ -1,0 +1,101 @@
+date,posting_date,description,merchant,category,transaction_type,amount,balance,account_mask,transaction_id
+2024-01-01,2024-01-02,Arcade Hub Entertainment,Arcade Hub,Entertainment,debit,240.38,-955.8,****1234,T2000027
+2024-01-01,2024-01-02,ACME Corp Payroll Salary,ACME Corp Payroll,Salary,credit,3961.74,-148245.06,****1234,T2001130
+2024-01-01,2024-01-02,Landlord Payment Rent,Landlord Payment,Rent,debit,933.34,-153082.4,****1234,T2001194
+2024-01-01,2024-01-02,Landlord Payment Rent,Landlord Payment,Rent,debit,1061.61,-205252.72,****1234,T2001627
+2024-01-01,2024-01-03,WaterWorks Halifax Utilities,WaterWorks Halifax,Utilities,debit,315.82,-379256.51,****1234,T2002849
+2024-01-01,2024-01-01,Revenue Agency Taxes,Revenue Agency,Taxes,debit,1189.68,-389179.4,****1234,T2002983
+2024-01-01,2024-01-02,NovaTel Utilities,NovaTel,Utilities,debit,166.67,-401979.39,****1234,T2003126
+2024-01-01,2024-01-03,Landlord Payment Rent,Landlord Payment,Rent,debit,929.8,-403227.68,****1234,T2003152
+2024-01-01,2024-01-03,Pasta House Dining,Pasta House,Dining,debit,202.01,-464341.99,****1234,T2003495
+2024-01-01,2024-01-03,Landlord Payment Rent,Landlord Payment,Rent,debit,1761.28,-491718.47,****1234,T2003635
+2024-01-02,2024-01-04,Landlord Payment Rent,Landlord Payment,Rent,debit,1306.85,-112059.77,****1234,T2000715
+2024-01-02,2024-01-02,Landlord Payment Rent,Landlord Payment,Rent,debit,1370.46,-109093.42,****1234,T2000780
+2024-01-02,2024-01-04,NewsDaily Subscription,NewsDaily,Subscription,debit,9.84,-240156.41,****1234,T2001760
+2024-01-02,2024-01-02,Coastal Gas Utilities,Coastal Gas,Utilities,debit,348.67,-375755.71,****1234,T2002831
+2024-01-02,2024-01-04,Interac e-Transfer Transfer,Interac e-Transfer,Transfer,credit,835.78,-499130.2,****1234,T2003714
+2024-01-02,2024-01-03,Sushi Place Dining,Sushi Place,Dining,debit,61.42,-600128.66,****1234,T2004200
+2024-01-03,2024-01-04,Landlord Payment Rent,Landlord Payment,Rent,debit,1134.71,-50227.6,****1234,T2000399
+2024-01-03,2024-01-03,Bank ATM ATM Withdrawal,Bank ATM,ATM Withdrawal,debit,261.28,-263026.58,****1234,T2001907
+2024-01-03,2024-01-03,ShopEasy Online Shopping,ShopEasy,Online Shopping,debit,189.54,-390657.7,****1234,T2003003
+2024-01-03,2024-01-05,WaterWorks Halifax Utilities,WaterWorks Halifax,Utilities,debit,35.21,-477012.76,****1234,T2003585
+2024-01-03,2024-01-04,Landlord Payment Rent,Landlord Payment,Rent,debit,1660.43,-488697.01,****1234,T2003621
+2024-01-03,2024-01-04,Merchant Refund Refund,Merchant Refund,Refund,credit,81.56,-498200.74,****1234,T2003682
+2024-01-03,2024-01-04,MegaDeals Online Shopping,MegaDeals,Online Shopping,debit,223.04,-525506.67,****1234,T2003872
+2024-01-03,2024-01-04,Pasta House Dining,Pasta House,Dining,debit,26.83,-535400.0,****1234,T2003962
+2024-01-03,2024-01-04,FreshFoods Groceries,FreshFoods,Groceries,debit,343.16,-606301.17,****1234,T2004239
+2024-01-03,2024-01-03,Landlord Payment Rent,Landlord Payment,Rent,debit,1250.04,-613188.59,****1234,T2004273
+2024-01-04,2024-01-04,Landlord Payment Rent,Landlord Payment,Rent,debit,1351.99,-67221.15,****1234,T2000455
+2024-01-04,2024-01-05,Green Clinic Healthcare,Green Clinic,Healthcare,debit,381.08,-128102.65,****1234,T2001060
+2024-01-04,2024-01-06,Books & Co. Online Shopping,Books & Co.,Online Shopping,debit,39.51,-287033.15,****1234,T2002072
+2024-01-04,2024-01-04,Sushi Place Dining,Sushi Place,Dining,debit,174.45,-400492.7,****1234,T2003097
+2024-01-04,2024-01-06,Green Basket Groceries,Green Basket,Groceries,debit,353.15,-409531.62,****1234,T2003203
+2024-01-04,2024-01-05,Bank ATM ATM Withdrawal,Bank ATM,ATM Withdrawal,debit,271.23,-419762.31,****1234,T2003242
+2024-01-04,2024-01-04,Coastal Gas Utilities,Coastal Gas,Utilities,debit,65.67,-509097.7,****1234,T2003780
+2024-01-04,2024-01-05,SuperMart Groceries,SuperMart,Groceries,debit,296.93,-558043.69,****1234,T2004030
+2024-01-04,2024-01-05,Merchant Refund Refund,Merchant Refund,Refund,credit,171.98,-653169.57,****1234,T2004681
+2024-01-05,2024-01-06,Landlord Payment Rent,Landlord Payment,Rent,debit,1769.58,-34602.5,****1234,T2000257
+2024-01-05,2024-01-05,Merchant Refund Refund,Merchant Refund,Refund,credit,65.64,-140116.76,****1234,T2001098
+2024-01-05,2024-01-07,Landlord Payment Rent,Landlord Payment,Rent,debit,1567.29,-153848.22,****1234,T2001153
+2024-01-05,2024-01-06,Landlord Payment Rent,Landlord Payment,Rent,debit,1612.08,-176191.65,****1234,T2001518
+2024-01-05,2024-01-07,WaterWorks Halifax Utilities,WaterWorks Halifax,Utilities,debit,34.11,-226271.49,****1234,T2001711
+2024-01-05,2024-01-05,Landlord Payment Rent,Landlord Payment,Rent,debit,1473.08,-344649.98,****1234,T2002574
+2024-01-05,2024-01-06,Gift Purchase Gift,Gift Purchase,Gift,debit,104.79,-353962.73,****1234,T2002637
+2024-01-05,2024-01-06,Landlord Payment Rent,Landlord Payment,Rent,debit,1792.89,-385046.58,****1234,T2002973
+2024-01-05,2024-01-06,External Bank Transfer Transfer,External Bank Transfer,Transfer,debit,857.0,-502755.81,****1234,T2003705
+2024-01-05,2024-01-06,Landlord Payment Rent,Landlord Payment,Rent,debit,1337.01,-515480.11,****1234,T2003813
+2024-01-05,2024-01-07,Pasta House Dining,Pasta House,Dining,debit,35.9,-644015.54,****1234,T2004534
+2024-01-05,2024-01-05,FreshFoods Groceries,FreshFoods,Groceries,debit,29.0,-642917.89,****1234,T2004613
+2024-01-05,2024-01-06,Uber Transport,Uber,Transport,debit,377.31,-658364.21,****1234,T2004865
+2024-01-06,2024-01-06,ElectroMall Online Shopping,ElectroMall,Online Shopping,debit,385.88,-44543.24,****1234,T2000388
+2024-01-06,2024-01-06,Pasta House Dining,Pasta House,Dining,debit,284.24,-118538.73,****1234,T2000866
+2024-01-06,2024-01-06,NewsDaily Subscription,NewsDaily,Subscription,debit,12.19,-160399.94,****1234,T2001233
+2024-01-06,2024-01-08,Gift Purchase Gift,Gift Purchase,Gift,debit,83.56,-167532.82,****1234,T2001411
+2024-01-06,2024-01-07,WaterWorks Halifax Utilities,WaterWorks Halifax,Utilities,debit,207.51,-244052.61,****1234,T2001792
+2024-01-06,2024-01-07,WaterWorks Halifax Utilities,WaterWorks Halifax,Utilities,debit,145.06,-285232.33,****1234,T2002145
+2024-01-06,2024-01-06,StreamFlix Entertainment,StreamFlix,Entertainment,debit,108.72,-303902.92,****1234,T2002290
+2024-01-06,2024-01-07,NovaTel Utilities,NovaTel,Utilities,debit,182.75,-318783.52,****1234,T2002365
+2024-01-06,2024-01-07,Bistro 24 Dining,Bistro 24,Dining,debit,305.36,-327661.19,****1234,T2002483
+2024-01-06,2024-01-07,FastTaxi Transport,FastTaxi,Transport,debit,273.2,-397306.83,****1234,T2003081
+2024-01-06,2024-01-07,Wellness Centre Healthcare,Wellness Centre,Healthcare,debit,53.88,-489772.16,****1234,T2003626
+2024-01-06,2024-01-08,City Transit Transport,City Transit,Transport,debit,3.37,-669462.72,****1234,T2004920
+2024-01-07,2024-01-08,Budget Grocer Groceries,Budget Grocer,Groceries,debit,379.63,-71344.52,****1234,T2000486
+2024-01-07,2024-01-07,Bank ATM ATM Withdrawal,Bank ATM,ATM Withdrawal,debit,96.07,-429692.61,****1234,T2003342
+2024-01-07,2024-01-09,Joe's Diner Dining,Joe's Diner,Dining,debit,304.68,-475489.02,****1234,T2003543
+2024-01-07,2024-01-07,Sushi Place Dining,Sushi Place,Dining,debit,193.63,-490639.44,****1234,T2003629
+2024-01-07,2024-01-09,SafeHome Insurance Insurance,SafeHome Insurance,Insurance,debit,264.88,-539033.16,****1234,T2003981
+2024-01-07,2024-01-07,Shell Gas Transport,Shell Gas,Transport,debit,196.66,-557525.45,****1234,T2004028
+2024-01-07,2024-01-08,FastTaxi Transport,FastTaxi,Transport,debit,214.49,-629016.77,****1234,T2004464
+2024-01-07,2024-01-07,Coastal Gas Utilities,Coastal Gas,Utilities,debit,55.99,-634909.91,****1234,T2004492
+2024-01-07,2024-01-08,Wellness Centre Healthcare,Wellness Centre,Healthcare,debit,199.58,-640863.78,****1234,T2004537
+2024-01-07,2024-01-07,CinemaWorld Entertainment,CinemaWorld,Entertainment,debit,322.67,-647427.14,****1234,T2004627
+2024-01-08,2024-01-10,Halifax Power Utilities,Halifax Power,Utilities,debit,269.55,-325871.04,****1234,T2002433
+2024-01-08,2024-01-09,TuneStream Subscription,TuneStream,Subscription,debit,11.36,-335149.0,****1234,T2002525
+2024-01-08,2024-01-08,Coastal Gas Utilities,Coastal Gas,Utilities,debit,141.8,-368810.16,****1234,T2002804
+2024-01-08,2024-01-08,Merchant Refund Refund,Merchant Refund,Refund,credit,174.49,-388048.66,****1234,T2003023
+2024-01-08,2024-01-10,Bank ATM ATM Withdrawal,Bank ATM,ATM Withdrawal,debit,74.36,-431089.74,****1234,T2003330
+2024-01-08,2024-01-10,Halifax Power Utilities,Halifax Power,Utilities,debit,230.52,-572854.5,****1234,T2004093
+2024-01-08,2024-01-08,ElectroMall Online Shopping,ElectroMall,Online Shopping,debit,325.11,-625503.29,****1234,T2004359
+2024-01-08,2024-01-09,Coastal Gas Utilities,Coastal Gas,Utilities,debit,182.34,-651159.22,****1234,T2004579
+2024-01-09,2024-01-10,Revenue Agency Taxes,Revenue Agency,Taxes,debit,935.59,-204576.22,****1234,T2001632
+2024-01-09,2024-01-10,Budget Grocer Groceries,Budget Grocer,Groceries,debit,392.26,-271140.59,****1234,T2001939
+2024-01-09,2024-01-09,Pasta House Dining,Pasta House,Dining,debit,354.13,-501064.17,****1234,T2003698
+2024-01-09,2024-01-10,AutoShield Insurance,AutoShield,Insurance,debit,96.32,-518702.92,****1234,T2003850
+2024-01-09,2024-01-09,Bistro 24 Dining,Bistro 24,Dining,debit,149.64,-648905.24,****1234,T2004591
+2024-01-10,2024-01-12,TuneStream Subscription,TuneStream,Subscription,debit,13.08,-5404.76,****1234,T2000054
+2024-01-10,2024-01-11,Coastal Gas Utilities,Coastal Gas,Utilities,debit,32.58,-83719.36,****1234,T2000555
+2024-01-10,2024-01-10,Arcade Hub Entertainment,Arcade Hub,Entertainment,debit,380.49,-87372.47,****1234,T2000596
+2024-01-10,2024-01-10,ShopEasy Online Shopping,ShopEasy,Online Shopping,debit,190.69,-103009.42,****1234,T2000692
+2024-01-10,2024-01-10,City Transit Transport,City Transit,Transport,debit,26.3,-233302.98,****1234,T2001735
+2024-01-10,2024-01-11,Coastal Gas Utilities,Coastal Gas,Utilities,debit,202.25,-240693.73,****1234,T2001763
+2024-01-10,2024-01-10,SuperMart Groceries,SuperMart,Groceries,debit,383.13,-261123.63,****1234,T2001894
+2024-01-10,2024-01-11,Interac e-Transfer Transfer,Interac e-Transfer,Transfer,credit,36.13,-285745.27,****1234,T2002033
+2024-01-10,2024-01-12,WaterWorks Halifax Utilities,WaterWorks Halifax,Utilities,debit,220.1,-491940.27,****1234,T2003653
+2024-01-10,2024-01-11,Green Basket Groceries,Green Basket,Groceries,debit,88.6,-613988.08,****1234,T2004277
+2024-01-11,2024-01-13,MegaDeals Online Shopping,MegaDeals,Online Shopping,debit,82.28,-116900.24,****1234,T2000879
+2024-01-11,2024-01-12,Pasta House Dining,Pasta House,Dining,debit,79.94,-314474.29,****1234,T2002322
+2024-01-11,2024-01-11,Interac e-Transfer Transfer,Interac e-Transfer,Transfer,debit,328.88,-408470.42,****1234,T2003199
+2024-01-11,2024-01-11,Coastal Gas Utilities,Coastal Gas,Utilities,debit,134.53,-550059.87,****1234,T2004001
+2024-01-11,2024-01-11,Bank Fee,Bank Fee,Fee,debit,38.43,-550059.87,****1234,T2004001F
+2024-01-11,2024-01-11,SuperMart Groceries,SuperMart,Groceries,debit,121.97,-614795.84,****1234,T2004281
+2024-01-11,2024-01-12,Merchant Refund Refund,Merchant Refund,Refund,credit,66.97,-621676.23,****1234,T2004375
