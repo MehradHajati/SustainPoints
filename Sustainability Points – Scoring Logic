@@ -1,0 +1,57 @@
+## **Sustainability Points – Scoring & Redemption Logic**
+
+We convert transaction + utility data into a transparent **Sustainability Score** using fixed, auditable rules.
+
+---
+
+### **1. Green Debits (spending that’s good)**
+
+**Public Transit**
+- Monthly bus pass → fixed bonus (e.g. **+50 pts**).
+- Transit reloads → **0.5 pts per \$**, capped per month to avoid abuse.
+
+**Thrift / Refurbished / Second-hand**
+- Extra points per \$ spent at verified “reuse” merchants.
+- Encourages **circular economy** instead of buying new.
+
+**Solar & Efficiency Upgrades**
+- Strong points per \$ for solar / heat pump / efficiency installs.
+- Lifetime cap so one purchase doesn’t dominate.
+
+**Electricity (2 BHK baseline)**
+- If bill ≤ baseline → higher points.
+- Slightly above baseline → reduced points.
+- Well above baseline → **0 pts**.
+
+**Water (2 BHK baseline)**
+- Same tiered idea as electricity with its own baseline.
+
+_All of the above are tagged as `PointType = "DEBIT"` with clear categories (e.g., `BUS_PASS`, `ELECTRICITY`)._
+
+---
+
+### **2. Green Credits (money back for green actions)**
+
+**Bottle / Container Returns**
+- **3 pts per \$1** refunded.
+- Rewards recycling without overpowering other actions.
+
+**Green Rebates**
+- Higher pts per \$ for official energy/efficiency rebates.
+
+**Resale Earnings**
+- Points for selling used items instead of discarding them.
+
+_These are tagged as `PointType = "CREDIT"` so users can see how they earn their score._
+
+---
+
+### **3. Redemption**
+
+Points can be redeemed only for **more sustainable choices**:
+
+- **Transit rewards:** monthly/weekly passes, ride bundles.
+- **Green vouchers:** thrift shops, low-waste/organic stores, efficiency/solar upgrades.
+- **(Optional) Tax-style credit:** conservative conversion rate with an annual cap.
+
+**Goal:** sustainable behaviour → points → rewards that make the next green choice easier.
