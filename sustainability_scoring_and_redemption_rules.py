@@ -137,7 +137,7 @@ GREEN_CREDIT_RULES = {
             "Recycling Centre Refund - Halifax"
         ],
         # Strong incentive: turn every $ returned into a nice chunk of points
-        "points_per_dollar": 10
+        "points_per_dollar": 3
     },
 
     "GREEN_REBATE": {
