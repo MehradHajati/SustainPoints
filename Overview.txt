@@ -1,21 +1,23 @@
-Idea Overview/Map:
-
-Sustainability Points:
+Idea Overview/Map of Sustainability Points:
 
 This idea aims at the Accessibility and inclusiviness portion of the hackathon.
 
 
 Sustainability Points are motivators for people to spend and use with sustainability in mind.
 Similiar to how air-miles or scene+ motivate you to spend when buying groceries and give you rewards after spending.
+According to both the cateogory of spending and the amount spent, the user will get a corresponding sustainability point.
 
+
+
+Background work
 Research has shown that these sort of programs really help users to be more sustainable:
 1. Randomized field experiment (2024, Environmental & Resource Economics): giving shoppers individualized carbon feedback in a grocery app reduced emissions ~27% in month 1 (esp. beef), with effects fading as app engagement waned (persistence among engaged users). This is the strongest causal evidence to cite. 
 2. Visa “Eco Benefits” (powered by ecolytiq) and NatWest’s Carbon Tracker show mainstream adoption of transaction-based footprinting, with Visa explicitly positioning rewards tied to sustainable behaviors. 
 3. Clarity AI’s study of ecolytiq users reports shifts toward lower-emission choices without reducing overall spending (directional, not an RCT). Handy for a “market validation” slide. 
 4. Points-for-behavior schemes have worked in health contexts (e.g., physical-activity loyalty programs via randomized trials), which supports the general mechanism of “points change habits.”
 
-According to both the cateogory of spending and the amount spent, the user will get a corresponding sustainability point.
 
+What is our Motivation and Use case:
 
 The user can then spend their points to:
 
@@ -60,6 +62,13 @@ There are 5 cateogries of spending that a user can earn points from:
 
 5. Money earned from recyclying water bottles at stations
     By having a Sustain card that the user can tap at select recylcying stations, they can earn points depending on the products they are recyclying and how much
+
+
+What are the limitations we'll have?
+Our biggest limitation is scaling and recognition.
+This can be accomplished two ways:
+1. By attracting a loyal and active user base
+2. By partnering with Banks, Governments, or Visa/Mastercard
 
 
    
